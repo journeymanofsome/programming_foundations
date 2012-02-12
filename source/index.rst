@@ -1,22 +1,23 @@
-.. Programming Foundations documentation master file, created by
-   sphinx-quickstart on Sun Feb 12 17:54:49 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Programming Foundations's documentation!
-===================================================
+Programming Foundations
+=======================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+   
+   representation/small_numbers
+   representation/larger_numbers
 
 
+Upcoming Topics
+---------------
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+* a simple task like adding, done with symbols
+* the binary number system
+* some basic logic operations
+* adding binary numbers
+* subtracting binary numbers
+* the representation of negative numbers
+* the representation of letters and other characters
+* the representation of addresses in memory
